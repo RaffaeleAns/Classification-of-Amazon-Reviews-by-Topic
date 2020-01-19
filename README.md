@@ -29,5 +29,5 @@ For a correct execution of the project it is recommended to run the notebook (pr
 
 
 For any doubt and/or perplexity, do not hesitate to contact us:
-Raffaele Anselmo - r.anselmo@campus.unimib.it
-Lorenzo Pastore - l.pastore6@campus.unimib.it
+- Raffaele Anselmo - r.anselmo@campus.unimib.it
+- Lorenzo Pastore - l.pastore6@campus.unimib.it
