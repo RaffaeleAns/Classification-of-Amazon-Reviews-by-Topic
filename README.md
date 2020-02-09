@@ -7,11 +7,9 @@
 
 The aim of this project is to explore the potential of text mining and machine learning techniques. Specifically, a multiclass text classification problem has been addressed. The primary objective was to develop the data processing flow in order to identify the crucial and most difficult phases in a generic implementation scenario.
 
-<p align="center">
- <img src="https://github.com/RaffaeleAns/Classification-of-Amazon-Reviews-by-Topic/blob/master/images/amazon_bow.png" width = "400"/>
-</p>
 
 <p float="left">
+  <img src="https://github.com/RaffaeleAns/Classification-of-Amazon-Reviews-by-Topic/blob/master/images/amazon_bow.png" width = "300"/>
  <img src="https://github.com/RaffaeleAns/Classification-of-Amazon-Reviews-by-Topic/blob/master/images/amazon_comments.png" width = "300" align="right"/>
 </p>
 
