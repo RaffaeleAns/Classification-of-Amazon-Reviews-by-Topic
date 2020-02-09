@@ -9,8 +9,8 @@ The aim of this project is to explore the potential of text mining and machine l
 
 
 <p float="left">
-  <img src="https://github.com/RaffaeleAns/Classification-of-Amazon-Reviews-by-Topic/blob/master/images/amazon_bow.png" width = "300"/>
- <img src="https://github.com/RaffaeleAns/Classification-of-Amazon-Reviews-by-Topic/blob/master/images/amazon_comments.png" width = "300" align="right"/>
+  <img src="https://github.com/RaffaeleAns/Classification-of-Amazon-Reviews-by-Topic/blob/master/images/amazon_bow.png" width = "400"/>
+ <img src="https://github.com/RaffaeleAns/Classification-of-Amazon-Reviews-by-Topic/blob/master/images/amazon_comments.png" width = "400" align="right"/>
 </p>
 
 ## Introduction
